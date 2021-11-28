@@ -602,13 +602,5 @@ ligatures = [
     {   # www
         'chars': ['w', 'w', 'w'],
         'firacode_ligature_name': 'w_w_w.liga',
-    },
-    { # @
-        'chars': ['at'],
-        'firacode_ligature_name': 'at.ss05'
-    },
-    { # 0
-        'chars': ['zero'],
-        'firacode_ligature_name': 'zero.zero.tosf'
     }
 ]

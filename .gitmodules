@@ -1,15 +1,3 @@
 [submodule "_build/Ligaturizer/fonts/fira"]
 	path = _build/Ligaturizer/fonts/fira
 	url = https://github.com/tonsky/FiraCode.git
-[submodule "_build/Ligaturizer/fonts/codeface"]
-	path = _build/Ligaturizer/fonts/codeface
-	url = https://github.com/chrissimpkins/codeface.git
-[submodule "_build/Ligaturizer/fonts/plex"]
-	path = _build/Ligaturizer/fonts/plex
-	url = https://github.com/IBM/plex.git
-[submodule "_build/Ligaturizer/fonts/spacemono"]
-	path = _build/Ligaturizer/fonts/spacemono
-	url = https://github.com/googlefonts/spacemono.git
-[submodule "_build/Ligaturizer/fonts/Montserrat"]
-	path = _build/Ligaturizer/fonts/Montserrat
-	url = https://github.com/JulietaUla/Montserrat.git

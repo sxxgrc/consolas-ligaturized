@@ -249,7 +249,7 @@ ligatures = [
     },
     {   # >=
         'chars': ['greater', 'equal'],
-        'firacode_ligature_name': 'greater_equal.liga',
+        'firacode_ligature_name': 'greater_equal.ss02',
     },
     {   # >=>
         'chars': ['greater', 'equal', 'greater'],
@@ -365,7 +365,7 @@ ligatures = [
     },
     {   # <=
         'chars': ['less', 'equal'],
-        'firacode_ligature_name': 'less_equal.liga',
+        'firacode_ligature_name': 'less_equal.ss02',
     },
     {   # <=|
         'chars': ['less', 'equal', 'bar'],
@@ -603,4 +603,8 @@ ligatures = [
         'chars': ['w', 'w', 'w'],
         'firacode_ligature_name': 'w_w_w.liga',
     },
+    { # 0
+        'chars': ['0'],
+        'firacode_ligature_name': ''
+    }
 ]

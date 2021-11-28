@@ -83,21 +83,9 @@ ligatures = [
         'chars': ['asciitilde', 'hyphen'],
         'firacode_ligature_name': 'asciitilde_hyphen.liga',
     },
-    {   # **
-        'chars': ['asterisk', 'asterisk'],
-        'firacode_ligature_name': 'asterisk_asterisk.liga',
-    },
-    {   # ***
-        'chars': ['asterisk', 'asterisk', 'asterisk'],
-        'firacode_ligature_name': 'asterisk_asterisk_asterisk.liga',
-    },
     {   # *>
         'chars': ['asterisk', 'greater'],
         'firacode_ligature_name': 'asterisk_greater.liga',
-    },
-    {   # */
-        'chars': ['asterisk', 'slash'],
-        'firacode_ligature_name': 'asterisk_slash.liga',
     },
     {   # \/
         'chars': ['backslash', 'slash'],

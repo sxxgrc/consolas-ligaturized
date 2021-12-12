@@ -67,10 +67,6 @@ ligatures = [
         'chars': ['asciitilde', 'asciitilde', 'greater'],
         'firacode_ligature_name': 'asciitilde_asciitilde_greater.liga',
     },
-    {   # ~@
-        'chars': ['asciitilde', 'at'],
-        'firacode_ligature_name': 'asciitilde_at.liga',
-    },
     {   # ~=
         'chars': ['asciitilde', 'equal'],
         'firacode_ligature_name': 'asciitilde_equal.liga',
@@ -111,14 +107,6 @@ ligatures = [
         'chars': ['bar', 'bar', 'hyphen'],
         'firacode_ligature_name': 'bar_bar_hyphen.liga',
     },
-    {   # |}
-        'chars': ['bar', 'braceright'],
-        'firacode_ligature_name': 'bar_braceright.liga',
-    },
-    {   # |]
-        'chars': ['bar', 'bracketright'],
-        'firacode_ligature_name': 'bar_bracketright.liga',
-    },
     {   # |=
         'chars': ['bar', 'equal'],
         'firacode_ligature_name': 'bar_equal.liga',
@@ -138,14 +126,6 @@ ligatures = [
     {   # |->
         'chars': ['bar', 'hyphen', 'greater'],
         'firacode_ligature_name': 'bar_hyphen_greater.liga',
-    },
-    {   # {|
-        'chars': ['braceleft', 'bar'],
-        'firacode_ligature_name': 'braceleft_bar.liga',
-    },
-    {   # [|
-        'chars': ['bracketleft', 'bar'],
-        'firacode_ligature_name': 'bracketleft_bar.liga',
     },
     {   # ]#
         'chars': ['bracketright', 'numbersign'],
